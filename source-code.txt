@@ -14,7 +14,7 @@
             align-items: center;
             justify-content: center;
             height: 100vh;
-            color: #008000; /* Green color */
+            color: #008000; /* Red color */
         }
 
         .welcome-message {
