@@ -94,5 +94,3 @@ resource "aws_route_table_association" "pvt" {
     route_table_id = aws_route_table.rt-pvt.id
   
 }
-  
-}
