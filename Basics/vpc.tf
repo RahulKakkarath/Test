@@ -65,7 +65,6 @@ resource "aws_route_table_association" "pub" {
 }
 
 resource "aws_eip" "my-eip" {
-    vpc = true
   
 }
 
